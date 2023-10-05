@@ -1,0 +1,55 @@
+{
+    "quiz": [
+      {
+        "question": "Quelle est la capitale de la France ?",
+        "options": [
+          "Berlin",
+          "Madrid",
+          "Paris",
+          "Lisbonne"
+        ],
+        "correct_answer": "Paris"
+      },
+      {
+        "question": "Quel est le plus grand océan du monde ?",
+        "options": [
+          "Atlantique",
+          "Indien",
+          "Pacifique",
+          "Arctique"
+        ],
+        "correct_answer": "Pacifique"
+      },
+      {
+        "question": "Quel est le premier élément du tableau périodique des éléments ?",
+        "options": [
+          "Oxygène",
+          "Hydrogène",
+          "Hélium",
+          "Carbone"
+        ],
+        "correct_answer": "Hydrogène"
+      },
+      {
+        "question": "Qui a écrit 'Le Petit Prince' ?",
+        "options": [
+          "Victor Hugo",
+          "Antoine de Saint-Exupéry",
+          "George Orwell",
+          "Ernest Hemingway"
+        ],
+        "correct_answer": "Antoine de Saint-Exupéry"
+      },
+      {
+        "question": "Quelle est la distance moyenne entre la Terre et le Soleil ?",
+        "options": [
+          "93 millions de miles",
+          "93 milliards de miles",
+          "150 millions de kilomètres",
+          "150 milliards de kilomètres"
+        ],
+        "correct_answer": "150 millions de kilomètres"
+      }
+    ]
+  }
+  
