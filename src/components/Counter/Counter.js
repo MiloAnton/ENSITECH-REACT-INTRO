@@ -1,7 +1,7 @@
-import { useState } from 'react';
+import { useState } from "react";
 
 function Counter() {
-    // Mes variables
+  // Mes variables
   const [variable, setVariable] = useState(0);
 
   // Mes fonctions
@@ -19,7 +19,7 @@ function Counter() {
       <button onClick={Bouton}>Cliquez moi</button>
       <button onClick={Reset}>Reset</button>
     </div>
-  )
+  );
 }
 
 export default Counter;

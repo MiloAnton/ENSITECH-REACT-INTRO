@@ -11,16 +11,13 @@ function Main() {
         return (
           <div>
             <h1>{quiz.question}</h1>
-            {
-              quiz.options.map((answer) => {
-                return (
-                  <div>
-                    <p>{answer}</p>
-                  </div>
-                );
-              }
-              )
-            }
+            {quiz.options.map((answer) => {
+              return (
+                <div>
+                  <p>{answer}</p>
+                </div>
+              );
+            })}
           </div>
         );
       })}
